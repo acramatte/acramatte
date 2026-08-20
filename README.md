@@ -56,29 +56,29 @@ I enjoy problems where understanding what should be built is as important as fig
   
   ### Web & Frontend
   
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,vue,redux,reactivex,pwa,vite,webpack,babel,grunt,sass,bootstrap,jquery,d3,electron&perline=5&theme=dark" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,vue,redux,reactivex,pwa,vite,webpack,babel,grunt,sass,bootstrap,jquery,d3,electron&perline=7&theme=dark" />
   <br/><br/>
   
   ### Backend & Application Development
   
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,java,python,php,express,grpc,fastapi,rails,laravel,symfony,maven,nginx&perline=5&theme=dark" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,java,python,php,express,grpc,fastapi,rails,laravel,symfony,maven,nginx&perline=7&theme=dark" />
   <br/><br/>
   
   ### Testing, Observability & Delivery
   
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=grafana,sentry,jest,playwright,cypress,selenium,jenkins,vercel,figma,kubernetes,gitlab,gcp,sonarqube&perline=5&theme=dark" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=grafana,sentry,jest,playwright,cypress,selenium,jenkins,vercel,figma,kubernetes,gitlab,gcp,sonarqube&perline=7&theme=dark" />
   <br/><br/>
   
   ### Data & CV
   
-  <img src="https://skillicons.dev/icons?i=elasticsearch,opencv,cpp,qt&perline=5&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=elasticsearch,opencv,cpp,qt&perline=7&theme=dark" />
   <br/><br/>
 </div>
 
 ## I've dabbled with
 
 <div align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=graphql,aws,rabbitmq,redis,s3,nestjs,mongodb,bun,htmx,dotnet,kali,raspberrypi&perline=5&theme=dark" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=graphql,aws,rabbitmq,redis,s3,nestjs,mongodb,bun,htmx,dotnet,kali,raspberrypi&perline=7&theme=dark" />
 </div>
 
 ## Environment & Tools
