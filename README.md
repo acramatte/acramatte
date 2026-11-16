@@ -46,7 +46,7 @@ I enjoy problems where understanding what should be built is as important as fig
   
   LLM APIs · agentic workflows · tool use · structured outputs · evals · LLM observability · local inference
   <br/>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=mistral,claude,chatgpt,huggingface,ollama&theme=dark" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=mistral,claudecode,codex,huggingface,ollama,lmstudio&theme=dark" />
   <br/><br/>
 </div>
 
